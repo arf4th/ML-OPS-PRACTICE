@@ -1,0 +1,10 @@
+student_information = ('Arfath', 21, "SHDC", "BCA")
+
+print('==============================')
+print('      STUDENT DETAILS'     )
+print('==============================')
+print()
+print(f'Name : {student_information[0]}')
+print(f'Age : {student_information[1]}')
+print(f'College : {student_information[2]}')
+print(f'Course : {student_information[3]}')
