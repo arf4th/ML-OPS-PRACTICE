@@ -1,0 +1,12 @@
+INFO Server started successfully
+INFO User login successful
+INFO Backup completed successfully
+WARNING CPU usage high
+INFO Database connection established
+ERROR Database connection failed
+WARNING Memory usage high
+INFO User logout successful
+ERROR Disk space critically low
+WARNING Network latency high
+INFO System update completed
+ERROR Authentication service failed`
